@@ -22,7 +22,7 @@ A cinematic smart-home concept built around a persistent real-time 3D environmen
 
 **Built with:** Three.js · WebGL · Motion · JavaScript · Vite
 
-> Live experience and case study coming soon.
+> 🌐 **[Explore the Live Experience](https://novahaus-by-quiloro.netlify.app/)**
 
 ---
 
