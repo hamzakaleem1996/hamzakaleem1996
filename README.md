@@ -1,6 +1,6 @@
 # Hamza Kaleem Khan
 
-### Founder @ Quiloro
+### Founder @Quiloro
 
 I build premium interactive digital experiences that combine thoughtful design, motion, 3D and modern web technologies.
 
